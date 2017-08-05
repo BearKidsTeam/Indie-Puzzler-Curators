@@ -25,14 +25,14 @@ A Chinese steam curator featured in puzzle games, providing a quantitative evalu
 解谜难度评价暂定为如下五个等级：
 
 1. 简单（Easy, ★）：如果大众玩家都不会在解谜上遇到较大困难；
-2. 中等（Normal, ★★）：如果大众玩家在解谜上会遇到一般程度的困难，一般解谜爱好者几乎不会遇到困难；如果解谜难度与Monument Valley相近；
-3. 困难（Hard，★★★）：如果大众玩家在解谜上会遇到具有挑战性的困难，一般解谜爱好者会遇到一般程度困难；如果解谜难度与Portal 2相近；
-4. 非常困难（Insane，★★★★）：如果大众玩家很难不由第三者帮助完成解谜主线，一般解谜爱好者会遇到具有挑战性的困难；如果解谜难度与The Talos Principle相近；
-5. 极其困难（Expert，★★★★★）：一般解谜爱好者也较难接受的解谜难度；如果解谜难度与Stephen's Sausage Roll相近或更高。
+2. 中等（Normal, ★★）：如果大众玩家在解谜上会遇到一般程度的困难，一般解谜爱好者几乎不会遇到困难；如果解谜难度与[纪念碑谷（Monument Valley）](https://en.wikipedia.org/wiki/Monument_Valley_(video_game))相近；
+3. 困难（Hard，★★★）：如果大众玩家在解谜上会遇到具有挑战性的困难，一般解谜爱好者会遇到一般程度困难；如果解谜难度与[传送门2（Portal 2）](http://store.steampowered.com/app/620/Portal_2/)相近；
+4. 非常困难（Insane，★★★★）：如果大众玩家很难不由第三者帮助完成解谜主线，一般解谜爱好者会遇到具有挑战性的困难；如果解谜难度与[塔罗斯的法则（The Talos Principle）](http://store.steampowered.com/app/257510/The_Talos_Principle/)相近；
+5. 极其困难（Expert，★★★★★）：一般解谜爱好者也较难接受的解谜难度；如果解谜难度与[史蒂芬的香肠卷（Stephen's Sausage Roll）](http://store.steampowered.com/app/353540/Stephens_Sausage_Roll/)相近或更高。
 
 ### 机制设计
 
-机制是游戏作者在创建解谜、探索等过程中所设定的公共逻辑（类似于梗、设定这些概念），例如Portal系列中的传送枪机制，Monument Valley中的非欧氏几何空间，都属于此类。
+机制是游戏作者在创建解谜、探索等过程中所设定的公共逻辑（类似于梗、设定这些概念），例如[Portal](http://store.steampowered.com/app/620/Portal_2/)系列中的传送枪机制，[Monument Valley](https://en.wikipedia.org/wiki/Monument_Valley_(video_game))中的[不可能几何体](https://en.wikipedia.org/wiki/Impossible_object)，都属于此类。
 机制是解谜游戏的灵魂。一个好的机制往往能吸引玩家的好奇心，同时能利用它创建出五花八门的关卡，但仅使用烂大街或者不合理的机制则会奠基性的让整个游戏不可能创建出有意思的关卡。
 
 机制设计评价暂定为如下五个等级：
